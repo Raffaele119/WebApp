@@ -1,0 +1,2 @@
+Il server effettua mai un Reset dei dati? Quando avviene questo Reset e perché?
+il server effettua il reset dei dati solo quando viene riavviato, questo perché i dati sono memorizzati in memoria e non sono persistenti al riavvio del server
